@@ -1,5 +1,5 @@
 - 👋 Hi, We are @Bottlebits
-- 👀 We are creating the first **NFT-Bar** that is backed by real bottles that gives access to digital and in-person experiences. 
+- 👀 We are creating the luxury spirits enhancement app. 
 - 🌱 We are currently learning (always!)
 - 💞️ We are looking for web3.0 and Metaverse talent!
 - 📫 You can reach us at joinus@bottlebits.com
