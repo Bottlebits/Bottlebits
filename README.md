@@ -1,7 +1,6 @@
 - 👋 Hi, We are @Bottlebits
 - 👀 We are creating the luxury spirits enhancement app. 
 - 🌱 We are currently learning (always!)
-- 💞️ We are looking for web3.0 and Metaverse talent!
 - 📫 You can reach us at joinus@bottlebits.com
 
 <!---
